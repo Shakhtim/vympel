@@ -1,1 +1,1 @@
-# vympel https://tamirlanshakh.github.io/vympel/
+# vympel https://shakhtim.github.io/vympel/
